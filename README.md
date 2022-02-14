@@ -17,7 +17,7 @@ This lab practices using JSON data in both MongoDB and PostgreSQL.
 - [Creating a Collection](https://docs.mongodb.org/manual/reference/method/db.createCollection/)
 - [Modifying Documents](https://docs.mongodb.org/manual/tutorial/modify-documents/)
 - [Querying using find()](https://docs.mongodb.org/manual/reference/method/db.collection.find/)
-- [Mongo Java Driver API](https://api.mongodb.org/java/current/)
+- [Mongo Java Driver API](https://mongodb.github.io/mongo-java-driver/4.4/apidocs/mongodb-driver-core/com/mongodb/package-summary.html)
 
 
 ## Using PostgreSQL with JSON Data (10 bonus marks)
