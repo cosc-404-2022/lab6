@@ -38,4 +38,4 @@ This lab practices using JSON data in both MongoDB and PostgreSQL.
 
 ## Submission
 
-The lab can be marked immediately by the professor or TA by showing the output of the JUnit tests and by a quick code review.  Otherwise, submit the URL of your GitHub repository on Canvas. **Make sure to commit and push your updates to GitHub.**
+The lab can be marked immediately by the professor or TA by showing the output of the JUnit tests and by a quick code review.  Submit the URL of your GitHub repository on Canvas. **Make sure to commit and push your updates to GitHub.**
